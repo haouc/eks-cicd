@@ -1,1 +1,1 @@
-# eks-cicd
+# eks-example
